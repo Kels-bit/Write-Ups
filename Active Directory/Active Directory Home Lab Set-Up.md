@@ -1,6 +1,6 @@
 -----------------------------------------
 ## Overview
-This goal of this lab is to setup a basic Active Directory (AD) domain.
+The goal of this lab is to setup a basic Active Directory (AD) domain.
 	Steps:
 			1. Install Windows Server in a Virtual Machine.
 			2. Promote the server to a Domain Controller (DC).
@@ -27,7 +27,7 @@ Install Active Directory on the server using Server Manager. Once complete promo
 
 Press the Manage tab (upper right) > Add Roles and Features to add Active Directory.
 
-![[Add AD (Step 2).png]]
+![Capture1](https://github.com/Kels-bit/Write-Ups/blob/main/Active%20Directory/Assests/Capture%201%20(step%201).png)
 
 Once in the Add  Roles and Features Wizard hit next until you reach the Server Roles tab, then click Active Directory Domain Services Role to add to server.
 
