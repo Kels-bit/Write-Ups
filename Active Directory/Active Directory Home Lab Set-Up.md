@@ -36,7 +36,7 @@ Once in the Add  Roles and Features Wizard hit next until you reach the Server R
 
 ![image3][Capture3]
 
-Keep all default and continue clicking next until Confirmation Tab and click install.
+Keep all defaults and continue clicking next until Confirmation Tab and click install.
 
 ![image4][Capture4]
 
@@ -79,7 +79,7 @@ _Right click domain > New > Group_
 ![image11][Capture11]
 
 
-Create Users, (Bugs Bunny, Daffy Duck, Elmer Fudd, Tweety Bird)
+Create Users (Bugs Bunny, Daffy Duck, Elmer Fudd, Tweety Bird)
 _Right click > New > User_
 
 ![image12][Capture12]
