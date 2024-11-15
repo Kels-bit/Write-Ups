@@ -82,14 +82,15 @@ _Right click > New > User_
 ![image12][Capture12]
 
 [Capture1]: https://github.com/user-attachments/assets/5b47f4b6-b3ec-4a3c-ad1d-4a559e7004e3
-[Capture2]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%202%20(Step%202).png
-[Capture3]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%203%20(Step%202).png
-[Capture4]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%204%20(Step%202).png
-[Capture5]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%205%20(Step%202).png
-[Capture6]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%206%20(step%203).png
-[Capture7]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%207%20(step%203).png
-[Capture8]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%208%20(Step%204).png
-[Capture9]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%209%20(Step%204).png
-[Capture10]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2010%20(Step%204).png
-[Capture11]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2011%20%20(Step%205).png
-[Capture12]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2012%20(Step%205).png
+[Capture2]: https://github.com/user-attachments/assets/94ac4718-88f5-4eb9-8b03-5c9bb3258c32
+[Capture3]: https://github.com/user-attachments/assets/2a642fe0-c64a-4dba-8d12-c8133d88aa21
+[Capture4]: https://github.com/user-attachments/assets/54a2bc11-34f4-48e7-8a34-88df8afbf3ea
+[Capture5]: https://github.com/user-attachments/assets/9a5115ca-dc15-4f5c-b2a5-06c80fbcb3b2
+[Capture6]: https://github.com/user-attachments/assets/1adb8bc1-80c6-42ec-b4bc-5fc104893966
+[Capture7]: https://github.com/user-attachments/assets/a5a515e4-d05a-4426-aede-3a3df6486e39
+[Capture8]: https://github.com/user-attachments/assets/bbedb625-97ae-45ce-af10-1825f0d88df8
+[Capture9]: https://github.com/user-attachments/assets/82fe98f8-1a22-4fcc-ac29-35e23be11c4d
+[Capture10]: https://github.com/user-attachments/assets/5e0f2c7e-2b4f-4866-b554-96dbcb7eb1f2
+[Capture11]: https://github.com/user-attachments/assets/ae263e55-71f5-41f8-89a8-bd62b7740c02
+[Capture12]: https://github.com/user-attachments/assets/6d989784-a41f-44b5-a35d-8bc8a09ea92e
+
