@@ -46,7 +46,7 @@ After a successful installation click promote this server to a domain controller
 
 ___________
 ### Step 3:  Create an AD domain (e.g., homelab.local).
-Create a AD domain name homelab.local.
+Create an AD domain name homelab.local.
 
 ![image6][Capture6]
 
