@@ -1,4 +1,4 @@
------------------------------------------
+----------------
 ## Overview
 The goal of this lab is to setup a basic Active Directory (AD) domain.
 	Steps:
