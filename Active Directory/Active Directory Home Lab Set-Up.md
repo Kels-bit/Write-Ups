@@ -16,8 +16,8 @@ ____________________
 I will be creating a virtual machine running Windows Server 2022 using  VMware Workstation Pro. 
 
 Downloads:  
-[VMware Workstation Pro](https://knowledge.broadcom.com/external/article?articleNumber=368667)
-[Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
+-[VMware Workstation Pro](https://knowledge.broadcom.com/external/article?articleNumber=368667)
+-[Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
 
 Windows Server 2022 installed and running using VMware.
 
