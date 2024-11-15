@@ -19,7 +19,7 @@ I will be creating a virtual machine running Windows Server 2022 using  VMware W
 
 Windows Server 2022 installed and running using VMware.
 
-![[Active Directory Running (step 1).png]]
+![image][Capture 1]
 
 _________
 ### Step 2: Promote Sever to a Domain Controller.
@@ -80,3 +80,5 @@ Create Users, (Bugs Bunny, Daffy Duck, Elmer Fudd, Tweety Bird)
 _Right click > New > User_
 
 ![[Create Users (Step 5).png]]
+
+[Capture 1]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%201%20(step%201).png
