@@ -81,15 +81,15 @@ _Right click > New > User_
 
 ![image12][Capture12]
 
-[Capture 1]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%201%20(step%201).png
-[Capture 2]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%202%20(Step%202).png
-[Capture 3]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%203%20(Step%202).png
-[Capture 4]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%204%20(Step%202).png
-[Capture 5]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%205%20(Step%202).png
-[Capture 6]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%206%20(step%203).png
-[Capture 7]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%207%20(step%203).png
-[Capture 8]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%208%20(Step%204).png
-[Capture 9]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%209%20(Step%204).png
-[Capture 10]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2010%20(Step%204).png
-[Capture 11]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2011%20%20(Step%205).png
-[Capture 12]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2012%20(Step%205).png
+[Capture1]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%201%20(step%201).png
+[Capture2]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%202%20(Step%202).png
+[Capture3]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%203%20(Step%202).png
+[Capture4]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%204%20(Step%202).png
+[Capture5]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%205%20(Step%202).png
+[Capture6]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%206%20(step%203).png
+[Capture7]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%207%20(step%203).png
+[Capture8]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%208%20(Step%204).png
+[Capture9]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%209%20(Step%204).png
+[Capture10]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2010%20(Step%204).png
+[Capture11]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2011%20%20(Step%205).png
+[Capture12]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%2012%20(Step%205).png
