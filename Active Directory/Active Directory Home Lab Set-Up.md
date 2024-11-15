@@ -1,6 +1,7 @@
 ----------------
 ## Overview
 The goal of this lab is to setup a basic Active Directory (AD) domain.
+
 Steps: 
 1. Install Windows Server in a Virtual Machine.
 2. Promote the server to a Domain Controller (DC).
