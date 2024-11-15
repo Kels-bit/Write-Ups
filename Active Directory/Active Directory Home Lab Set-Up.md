@@ -81,7 +81,7 @@ _Right click > New > User_
 
 ![image12][Capture12]
 
-[Capture1]: (https://github.com/user-attachments/assets/5b47f4b6-b3ec-4a3c-ad1d-4a559e7004e3)
+[Capture1]: https://github.com/user-attachments/assets/5b47f4b6-b3ec-4a3c-ad1d-4a559e7004e3
 [Capture2]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%202%20(Step%202).png
 [Capture3]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%203%20(Step%202).png
 [Capture4]: https://github.com/Kels-bit/Assets/blob/main/AD-Images-Lab-1/Capture%204%20(Step%202).png
