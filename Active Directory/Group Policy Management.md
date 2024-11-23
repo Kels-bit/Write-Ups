@@ -39,10 +39,12 @@ Navigate to Computer Configuration > Policies > Windows Settings > Security Sett
 ![Act 1 Password nav -5 ](https://github.com/user-attachments/assets/b01bca0c-5192-467c-94ff-2fa2594fb45c)
 
 Set Password Age setting to 90 days. (Password will expire after 90 days.)
+
 ![Act Password Age - 6](https://github.com/user-attachments/assets/5b34f2d3-d65f-4185-a00f-80b5e65708c4)
 
 
 Set Password Length to 12 characters min.
+
 ![Act Password Length - 7](https://github.com/user-attachments/assets/3f2f0161-94e6-4ab4-bea0-bc0a37309c16)
 
 Set Password Complexity 
