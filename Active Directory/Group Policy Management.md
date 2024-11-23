@@ -49,10 +49,12 @@ Set Password Length to 12 characters min.
 ![Act Password Length - 7](https://github.com/user-attachments/assets/3f2f0161-94e6-4ab4-bea0-bc0a37309c16)
 
 Set Password Complexity 
+
 ![Act Password Complex - 8](https://github.com/user-attachments/assets/0f8c2933-c58b-40d2-98b7-96f6cd054cd1)
 
 
 Screenshot of all the Policies Configured for the Password Policy  that was created.
+
 ![Act Password settings - 9](https://github.com/user-attachments/assets/cd6196e7-a8f8-4288-a493-7142f6e70b68)
 
 
@@ -61,10 +63,12 @@ _____
 Maps network drives for users when they log in.
 
 Create Drive Mapping Group Policy
+
 ![Act 2 Drive map - 11](https://github.com/user-attachments/assets/7c93f11a-9cc2-4677-adf6-5b1d80ce7caa)
 
 
 Navigate: User Configuration > Preferences > Windows Settings > Drive Maps
+
 ![Act 2 Drive map - 12](https://github.com/user-attachments/assets/3ed49f8e-82e6-4d8f-9b34-fa31d0babd9c)
 
 
