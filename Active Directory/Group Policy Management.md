@@ -48,12 +48,12 @@ Set Password Length to 12 characters min.
 
 ![Act Password Length - 7](https://github.com/user-attachments/assets/3f2f0161-94e6-4ab4-bea0-bc0a37309c16)
 
-Set Password Complexity 
+Set Password Complexity. 
 
 ![Act Password Complex - 8](https://github.com/user-attachments/assets/0f8c2933-c58b-40d2-98b7-96f6cd054cd1)
 
 
-Screenshot of all the Policies Configured for the Password Policy  that was created.
+Screenshot of all the Policies Configured for the Password Policy that was created.
 
 ![Act Password settings - 9](https://github.com/user-attachments/assets/cd6196e7-a8f8-4288-a493-7142f6e70b68)
 
@@ -62,7 +62,7 @@ _____
 ### Activity #2: Create a Drive Mapping Policy
 Maps network drives for users when they log in.
 
-Create Drive Mapping Group Policy
+Successful creation of the new Drive Mapping Policy.
 
 ![Act 2 Drive map - 11](https://github.com/user-attachments/assets/7c93f11a-9cc2-4677-adf6-5b1d80ce7caa)
 
@@ -87,7 +87,8 @@ Successful Creation of the neew Desktop Wallpaper Policy
 ![Act 3 Desktop Wallpaper Policy - 14](https://github.com/user-attachments/assets/d0c9dd05-2138-47f5-bbc7-0ae618a54bc0)
 
 
-Right click the policy then navigate to User Configuration > Policies >  Administrative Templates > Desktop > Desktop > Desktop Wallpaper 
+Right click the policy then navigate to User Configuration > Policies >  Administrative Templates > Desktop > Desktop > Desktop Wallpaper
+
 ![Act 3 Desktop Wallpaper Policy - 15](https://github.com/user-attachments/assets/f0562d3a-186f-4e4c-b9e8-8cb436861062)
 
 
@@ -98,7 +99,7 @@ _____
 ### Activity #4: Create a Control Panel Policy
 Prevents users from accessing the Control Panel.
 
-Create a Control Panel Policy.
+Successful creation of the new Control Panel Policy.
 
 ![Act 4 Control Panel - 17](https://github.com/user-attachments/assets/e3737a95-3dab-4f74-8992-cb495b86c918)
 
@@ -116,17 +117,16 @@ _____
 ### Activity #5: Create a USB Storage Policy
 Prevents users from using USB storage devices.
 
-
-Create USB Device Policy
+Successful creation of the new USB Device Policy.
 
 ![Act 5 USB Devices - 20](https://github.com/user-attachments/assets/c9161bc0-ba20-48da-844d-db964751f219)
 
-Right click the policy then navigate to Computer Configuration > Policies > Administrative Templates >  Systems > Removable Storage Access > All Removable Storage Classes: Deny all access
+Right click the policy then navigate to Computer Configuration > Policies > Administrative Templates >  Systems > Removable Storage Access > All Removable Storage Classes: Deny all access.
 
 ![Act 5 USB Devices - 21](https://github.com/user-attachments/assets/33326647-e91a-4254-82e7-37473e388c71)
 
 
-Check the enable options and apply
+Check the enable option and apply.
 
 ![Act 5 USB Devices - 22](https://github.com/user-attachments/assets/5038dc82-fd1b-40cc-8675-50cc5c06a72c)
 
@@ -142,7 +142,7 @@ Create an Account Lockout Policy
 ![Act 6 Account lockout - 23](https://github.com/user-attachments/assets/4e36bb67-bcfa-41fa-b102-db19acf22709)
 
 
-Right click the policy then navigate to Computer Configuration > Policies >  Windows Settings > Security Settings > Account Policy > Account Lockout
+Right click the policy then navigate to Computer Configuration > Policies >  Windows Settings > Security Settings > Account Policy > Account Lockout.
 
 ![Act 6 Account lockout - 24](https://github.com/user-attachments/assets/6debc725-0528-4f31-ac18-592952894833)
 
