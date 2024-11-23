@@ -36,6 +36,7 @@ _Creating the Password Policy_
 _successful creation of new "Password Policy"_
 
 Navigate to Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy to configure the policy.
+
 ![Act 1 Password nav -5 ](https://github.com/user-attachments/assets/b01bca0c-5192-467c-94ff-2fa2594fb45c)
 
 Set Password Age setting to 90 days. (Password will expire after 90 days.)
