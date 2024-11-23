@@ -138,7 +138,7 @@ Set account lockout settings to prevent brute force attacks.
 - Account lockout duration (Until System Admin resets it.).
 - Account lockout failed attempts (5).
 
-Create an Account Lockout Policy
+Successful creation of the new Account Lockout Policy.
 
 ![Act 6 Account lockout - 23](https://github.com/user-attachments/assets/4e36bb67-bcfa-41fa-b102-db19acf22709)
 
