@@ -14,7 +14,9 @@ _____
 ### Check: Make sure Group Policy Management Console (GPMC) is installed on the Windows Server.
 
 Make sure the Group Policy Management feature is installed for the Windows Server.
-Check GPM Pic
+
+![GPM check](https://github.com/user-attachments/assets/b11fcdb1-a398-42b9-9d72-0ea305f671cf)
+
 _Right Click your Domain > Choose the Create a GPO in this domain, and link here... option_
 Create GPO pic
 ### Activity #1: Create a Password Policy
