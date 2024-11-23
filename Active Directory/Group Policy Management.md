@@ -81,6 +81,9 @@ Make it consistent buy choosing the same drive letter
 _____
 ### Activity #3: Create a Desktop Wallpaper Policy
 Sets a default wallpaper for all users.
+
+Successful Creation of the neew Desktop Wallpaper Policy
+
 ![Act 3 Desktop Wallpaper Policy - 14](https://github.com/user-attachments/assets/d0c9dd05-2138-47f5-bbc7-0ae618a54bc0)
 
 
@@ -96,10 +99,12 @@ _____
 Prevents users from accessing the Control Panel.
 
 Create a Control Panel Policy.
+
 ![Act 4 Control Panel - 17](https://github.com/user-attachments/assets/e3737a95-3dab-4f74-8992-cb495b86c918)
 
 
 Right click the policy then navigate to User Configuration > Policies > Administrative Templates >  Control Panel > Prohibit access to Control Panel and PC settings.
+
 ![Act 4 Control Panel - 18](https://github.com/user-attachments/assets/810cee46-0e58-44a2-8a60-d62aa0c58254)
 
 
@@ -113,13 +118,16 @@ Prevents users from using USB storage devices.
 
 
 Create USB Device Policy
+
 ![Act 5 USB Devices - 20](https://github.com/user-attachments/assets/c9161bc0-ba20-48da-844d-db964751f219)
 
 Right click the policy then navigate to Computer Configuration > Policies > Administrative Templates >  Systems > Removable Storage Access > All Removable Storage Classes: Deny all access
+
 ![Act 5 USB Devices - 21](https://github.com/user-attachments/assets/33326647-e91a-4254-82e7-37473e388c71)
 
 
 Check the enable options and apply
+
 ![Act 5 USB Devices - 22](https://github.com/user-attachments/assets/5038dc82-fd1b-40cc-8675-50cc5c06a72c)
 
 
@@ -130,16 +138,20 @@ Set account lockout settings to prevent brute force attacks.
 - Account lockout failed attempts (5).
 
 Create an Account Lockout Policy
+
 ![Act 6 Account lockout - 23](https://github.com/user-attachments/assets/4e36bb67-bcfa-41fa-b102-db19acf22709)
 
 
-Right click the policy then navigate to Computer Configuration > Policies >  Windows Settings > Security Settings > Account Policy > Account Lockout 
+Right click the policy then navigate to Computer Configuration > Policies >  Windows Settings > Security Settings > Account Policy > Account Lockout
+
 ![Act 6 Account lockout - 24](https://github.com/user-attachments/assets/6debc725-0528-4f31-ac18-592952894833)
 
 Accounts will stayed lockout until an Admin resets it.
+
 ![Act 6 Account lockout - 25](https://github.com/user-attachments/assets/8b493728-1ffb-43f5-9b11-6cdc7258c76d)
 
 Accounts will be locked after 5 failed logon attempts.
+
 ![Act 6 Account lockout - 26](https://github.com/user-attachments/assets/19022eb3-b088-4ee4-875b-2da4458fd99a)
 
 
