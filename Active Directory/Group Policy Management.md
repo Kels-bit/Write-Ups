@@ -73,7 +73,8 @@ Navigate: User Configuration > Preferences > Windows Settings > Drive Maps
 
 
 Right Click Drive Maps 
--Name the location \\servername\folder 
+
+-Name the location \\servername\folder
 -Make it consistent buy choosing the same drive letter 
 
 ![Act 2 Drive map - 13](https://github.com/user-attachments/assets/b2b3fc16-27fd-4fb7-ba0b-599ffbce17b2)
